@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **sophroniscus693-oss/sophroniscus693-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
